@@ -9,7 +9,7 @@ function triangle(x, y, z) {
 
 let res;
 // process.stdin.on('data', data => {
-//     let [x, y, z] = data.toString().trim();
+//     let [x, y, z] = data.toString().trim().split("\n");
 //     process.stdout.write(triangle(x, y, z) + " ")
 //     process.exit()
 // })
